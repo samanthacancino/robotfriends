@@ -1,4 +1,4 @@
-#RoboFriends#
+# RoboFriends #
 El ejercicio consiste en pintar todos los robots, y filtrar por su nombre. 
 
 Se va filtrando según se rellene el input “search robot”.
